@@ -1,2 +1,2 @@
-# rocketseat
+# Rocketseat
 Curso de programação full stack
